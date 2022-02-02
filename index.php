@@ -8,8 +8,10 @@
 </head>
 <body>
   <?php
-    // includi header
+    // includi header.php
     include __DIR__ . '/partials/template/header.php';
+    // includi main.php
+    include __DIR__ . '/partials/template/main.php';
   ?>
 </body>
 </html>

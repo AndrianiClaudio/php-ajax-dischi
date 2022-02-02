@@ -1,5 +1,5 @@
 <header class="header">
   <?php
-    echo 'header';
+    echo 'in: header.php';
   ?>
 </header>
