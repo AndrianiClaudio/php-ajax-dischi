@@ -36,26 +36,18 @@ $album = [
     'author' => "Eric Clapton",
     'year' => "2002"
   ],
-
-
-
   [
     'img_path' => "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
     'title' => "Made in Japan",
     'author' => "Deep Purple",
     'year' => "1972"
   ],
-  
-  
-  
   [
     'img_path' => "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
     'title' => "And Justice for All",
     'author' => "Metallica",
     'year' => "1988"
   ],
-  
-  
   [
     'img_path' => "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
     'title' => "Hard Wired",
@@ -63,9 +55,6 @@ $album = [
     'year' => "1994"
     
   ],
-
-
-
   [
     'img_path' => "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
     'title' => "Bad",

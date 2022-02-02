@@ -1,3 +1,7 @@
+/* variables */
+:root {
+  --header-height: 80px;
+}
 /* reset */
 * {
   margin: 0 auto;
@@ -5,6 +9,22 @@
   box-sizing: border-box;
 }
 
+/* HEDAER */
+header.header {
+  background-color: #2e3a46;
+}
+.header .container {
+  display: flex;
+  align-items: center;
+  height: var(--header-height);
+  padding-left: 1rem;
+}
+svg.spotify-logo {
+  margin-left: 0;
+  height: 50px;
+  border-radius: 50%;
+  background-color: black;
+}
 /* MAIN */
 main.main {
   background-color: #1e2d3b;

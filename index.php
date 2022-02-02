@@ -13,8 +13,6 @@
     /**
      * TO-DO
      * =====
-     * CREARE HEADER (CSS & LOGO)
-     * RICERCA SVOLGIMENTO BONUS
      * ** Attraverso un’altra chiamata api, 
      * ** filtrare gli album per genere
      * =====
