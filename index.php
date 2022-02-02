@@ -14,6 +14,16 @@
 <body>
   <div id="app">
     <?php
+    /**
+     * TO-DO
+     * =====
+     * CREARE HEADER (CSS & LOGO)
+     * CREARE NUOVO INDEX.PHP PER STAMPA VUE
+     * RICERCA SVOLGIMENTO BONUS
+     * ** Attraverso un’altra chiamata api, 
+     * ** filtrare gli album per genere
+     * =====
+     */
       // includi header.php
       include __DIR__ . '/partials/template/header.php';
       // includi main.php
