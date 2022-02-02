@@ -3,8 +3,10 @@ const app = new Vue({
   data: {
   },
   created() {
-    axios.get('https://flynn.boolean.careers/exercises/api/array/music').then((result) => {
-      console.log(result.data);
+    axios.get('http://localhost/php-ajax-dischi/server/controller.php').then((result) => {
+      console.log('ok');
+      console.log(result);
+
     }).catch((err) => {
       console.error(err);
     });
