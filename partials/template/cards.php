@@ -3,7 +3,7 @@
 include __DIR__ . '/../../server/db.php';
 ?>
   <?php
-  foreach ($album as $id => $a) {
+  foreach ($album as $a) {
     echo '<section class="card">';
       echo '<img src='. $a['img_path'] . '>';
       echo '<h2>' . $a['title'] . '</h2>';
